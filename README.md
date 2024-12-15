@@ -1,1 +1,1 @@
-no clue what this is yet
+The first of the Odin Projects, a page with 3 recipies
